@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42565650469",
+    "project_id": "marvel-login-register",
+    "storage_bucket": "marvel-login-register.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42565650469:android:ea3c5c4c172c1c30fb17cc",
+        "android_client_info": {
+          "package_name": "com.example.marvelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhQpkyma_7EJklOm4G6D7bg_gdBpiLOmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
