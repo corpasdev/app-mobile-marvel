@@ -1,10 +1,25 @@
 <resources>
     <string name="app_name">MarvelApp</string>
     <string name="login">Login</string>
-    <string name="email">Correo electronico</string>
+    <string name="email">Correo electrónico</string>
     <string name="password">Contraseña</string>
     <string name="registro">Registro</string>
     <string name="iniciar_sesi_n">Iniciar Sesión</string>
     <string name="registrarse">Registrarse</string>
-    <string name="cerrar_sesion">Cerrar sesion</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="comic">Comic</string>
+    <string name="perfil">Perfil</string>
+    <string name="perfil2">Perfil</string>
+    <string name="nombre">Nombre</string>
+    <string name="fecha_nacimiento">Fecha de Nacimiento (aaaa-mm-dd)</string>
+    <string name="setting">Perfil</string>
+    <string name="Comic">Comic</string>
+    <string name="Home">Home</string>
+    <string name="entrar">Entrar</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="enviar">Enviar</string>
+    <string name="salir_de_la_cuenta">Salir de la cuenta</string>
 </resources>
